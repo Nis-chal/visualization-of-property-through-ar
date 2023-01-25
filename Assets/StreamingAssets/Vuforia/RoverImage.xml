@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cristiano-Ronaldo-home_04" size="6.000000 3.375000" />
+    <ImageTarget name="blueprint2" size="6.000000 4.000000" />
+    <ImageTarget name="blueprint" size="6.000000 3.834000" />
+    <ImageTarget name="kobe" size="6.000000 3.378000" />
+    <ImageTarget name="hous1" size="6.000000 6.000000" />
+    <ImageTarget name="targetimage" size="0.215000 0.161250" />
+  </Tracking>
+</QCARConfig>
